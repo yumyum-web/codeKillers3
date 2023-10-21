@@ -1,0 +1,9 @@
+## Environments
+venv/
+
+## PyCharm
+# JetBrains specific template is maintained in a separate .gitignore
+#.idea/
+
+## Personal
+/practice
